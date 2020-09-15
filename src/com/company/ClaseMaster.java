@@ -9,4 +9,7 @@ public class ClaseMaster {
 //xdxxdx
         //xdxdxdxd
     }
+
+    public void metodoSuport(){}
+
 }
