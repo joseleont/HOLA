@@ -7,6 +7,7 @@ public class Main {
 
        ClaseSuporteo SUPOR =new ClaseSuporteo();
 
+        SUPOR.metodoSuport();
 
     }
 }

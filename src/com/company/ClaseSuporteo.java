@@ -7,4 +7,6 @@ public class ClaseSuporteo {
 
 
     //xdxdxdxdxdx
+    public void metodoSuport(){}
+
 }
